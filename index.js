@@ -3,6 +3,6 @@ const companyName = 'Scuber';
 
 const mostProfitableNeighborhood = 'Chelsea';
 
-mostProfitableNeighborhood = 'Upper West Side'
+mostProfitableNeighborhood = 'Upper West Side';
 
 const companyCeo = 'Susan Smith';
